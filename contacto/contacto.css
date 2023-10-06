@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(199, 80, 145);
+}
+
+tr{
+    text-align: center;
+}
+
+
+h1{
+    color:darkslategrey;
+    font-family: 'Young Serif', serif;
+    font-size: 30px;
+    }
+    form{
+      color: rgb(199, 80, 145);
+      font-family: 'Century Gothic', serif;
+      font-size: 20px;
+    }
+    h2{
+        
+      color:rgb(1, 2, 7);
+       font-family: 'Century Gothic', serif;
+      font-size: 20px;
+    }
+    

@@ -1,0 +1,22 @@
+.tabla, body{
+    background-color: rgba(222, 52, 80, 0.728);
+    border-radius: 5px; 
+    text-align: center;
+     margin: 0%,0%,10%,0%;
+    border-collapse: collapse;
+    border:none;
+    
+}
+a{
+    font-family: Century Ghotic;
+    text-shadow: 3px 5px 5px rgb(83, 42, 120);
+    font-size: 15px;
+    text-decoration: none;
+    color: red;
+    
+}
+
+td{
+    margin: 0px,0px,0px,0px;
+
+}
